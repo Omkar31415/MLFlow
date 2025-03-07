@@ -1,6 +1,6 @@
 ## ML FLow experiements
 
-MLFLOW_TRACKING_URI=https://dagshub.com/Omkar31415/MLFlow.mlflow\
+MLFLOW_TRACKING_URI=https://dagshub.com/Omkar31415/MLFlow.mlflow \
 MLFLOW_TRACKING_USERNAME=Omkar31415 \
 MLFLOW_TRACKING_PASSWORD=0b4caa744a9b00c954ba77871b28eb80670be5b \
 
