@@ -1,7 +1,6 @@
 ## ML FLow experiements
 
-MLFLOW_TRACKING_URI=https://dagshub.com/krishnaik06/mlflowexperiments.mlflow \
-MLFLOW_TRACKING_USERNAME=krishnaik06 \
-MLFLOW_TRACKING_PASSWORD=7104284f1bb44ece21e0e2adb4e36a250ae3251f \
-python script.py
+MLFLOW_TRACKING_URI=https://dagshub.com/Omkar31415/MLFlow.mlflow\
+MLFLOW_TRACKING_USERNAME=Omkar31415 \
+MLFLOW_TRACKING_PASSWORD=0b4caa744a9b00c954ba77871b28eb80670be5b \
 
